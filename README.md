@@ -9,7 +9,7 @@
 
 <p align="center">
   <a href="https://thisdevbrain.com/how-to-use-async-await-with-ios-13/" target="_blank">
-    <img src="https://user-images.githubusercontent.com/6362174/139941834-dbec0865-6418-44ef-a5d8-145a2fb8da7b.png" width="350px">
+    <img src="https://user-images.githubusercontent.com/6362174/140032097-7559ce2d-ccdd-4f87-ab2c-957fea346f45.png" width="350px">
     <br>
     Article
   </a>
