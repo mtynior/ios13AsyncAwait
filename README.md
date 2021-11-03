@@ -15,7 +15,7 @@
   </a>
 </p>
 
-## This source code is a part of an article published at [This Dev Brain](https://thisdevbrain.com/thisdevbrain.com/how-to-use-async-await-with-ios-13/).
+## This source code is a part of an article published at [This Dev Brain](https://thisdevbrain.com/how-to-use-async-await-with-ios-13/).
 
 ### Requirements
 
