@@ -8,7 +8,7 @@
 <p align="center">Example project showing how to use async/await with iOS 13</p>
 
 <p align="center">
-  <a href="https://thisdevbrain.com/thisdevbrain.com/how-to-use-async-await-with-ios-13/" target="_blank">
+  <a href="https://thisdevbrain.com/how-to-use-async-await-with-ios-13/" target="_blank">
     <img src="https://user-images.githubusercontent.com/6362174/139941834-dbec0865-6418-44ef-a5d8-145a2fb8da7b.png" width="350px">
     <br>
     Article
