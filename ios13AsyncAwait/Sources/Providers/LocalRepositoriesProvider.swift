@@ -26,8 +26,7 @@ final class LocalRepositoriesProvider: ObservableObject, RepositoryProvider {
                 Repository(id: 3, name: "halloween_2018_watch_face", url: "~/repos/halloween_2018_watch_face"),
                 Repository(id: 4, name: "tatooine", url: "~/repos/tatooine")
             ]
-        }
-        catch {
+        } catch {
             self.error = error
         }
         

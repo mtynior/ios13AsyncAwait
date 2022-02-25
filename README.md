@@ -19,7 +19,7 @@
 
 ### Requirements
 
-- Xcode 13.2 Beta
+- Xcode 13.2 Beta or newer
 
 ### Installation
 

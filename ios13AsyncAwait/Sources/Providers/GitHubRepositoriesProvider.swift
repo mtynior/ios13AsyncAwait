@@ -21,8 +21,7 @@ final class GitHubRepositoriesProvider: ObservableObject, RepositoryProvider {
         do {
             let (data, _) = try await URLSession.shared.data(from: remoteUrl)
             repositories = try JSONDecoder().decode([Repository].self, from: data)
-        }
-        catch {
+        } catch {
             self.error = error
         }
         

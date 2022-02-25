@@ -39,9 +39,7 @@ struct RepositoriesView: View {
                     .frame(maxWidth: .infinity, minHeight: 40)
                     .background(Color.red)
                     .foregroundColor(.white)
-            }
-            
-            if currentDataProvider.isLoading {
+            } else if currentDataProvider.isLoading {
                 Text("Loading...")
                     .frame(maxWidth: .infinity, minHeight: 40)
                     .background(Color.clear)
@@ -64,6 +62,7 @@ struct RepositoriesView: View {
     }
 }
 
+// MARK: - Previews
 struct RepositoriesView_Previews: PreviewProvider {
     static var previews: some View {
         RepositoriesView()
